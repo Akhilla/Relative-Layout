@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">RelativeLayout_Akhilla</string>
     <string name="HELLO">RelativeLayout_Akhilla</string>
+    <string name="moms_title"> <font color="black"> Let\'s find \n </font> <font color="#800080">HOT MOMS</font> <font color="black"> near your area </font>  </string>
 
     <string-array name="day_array">
         <item>Monday</item>

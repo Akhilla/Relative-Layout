@@ -22,6 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/toolbarLayout"
         app:startIconDrawable="@drawable/ic_baseline_search_24"
+        app:endIconMode="custom"
         app:endIconDrawable="@drawable/ic_baseline_filter_alt_24"
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         >
@@ -164,6 +165,7 @@
             />
 
         <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv_food"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
